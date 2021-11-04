@@ -17,7 +17,7 @@
         * Raymon Anthony Doane recieved 3.1% of the votes (11,606)
       * Diana DeGette was the winnner with 73.8% of the vote (272,892)
       
-      ![Election_Results](Resources/results.PNG)
+      ![Election_Results](Election_Analysis/blob/main/Resources/results.PNG)
    
 ## Summary
   The Election Analysis script I provided is a value script that could be used in the future. Other voting districts could be analyzed if a different data set was provided. 
